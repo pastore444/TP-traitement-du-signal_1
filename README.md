@@ -10,3 +10,5 @@ Filtrage analogique, numérique - étude temporelle et fréquentielle
 TP 3 :
 
 Modulation AM, Démodulation synchrone, asynchrone
+
+note : 18/20
